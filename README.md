@@ -17,6 +17,13 @@ Recent advancements in audio tokenization have significantly enhanced the integr
 ![image](https://github.com/user-attachments/assets/39cb6891-1334-42d3-8d4e-8671a478d37d)
 
 
-<!-- ## Updates
-## Citation -->
-
+<!-- ## Updates -->
+## Citation 
+```
+@article{xue2025audio,
+  title={Audio-FLAN: A Preliminary Release},
+  author={Liumeng Xue, Ziya Zhou, Jiahao Pan, Zixuan Li, Shuai Fan, Yinghao Ma, Sitong Cheng, Dongchao Yang, Haohan Guo, Yujia Xiao, Xinsheng Wang, Zixuan Shen, Chuanbo Zhu, Xinshen Zhang, Tianchi Liu, Ruibin Yuan, Zeyue Tian, Haohe Liu, Emmanouil Benetos, Ge Zhang, Yike Guo, Wei Xue},
+  journal={arXiv preprint arXiv:2502.16584},
+  year={2025}
+}
+```
