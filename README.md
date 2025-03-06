@@ -19,8 +19,11 @@ Recent advancements in audio tokenization have significantly enhanced the integr
 # 📌 News  
 * A subset of the dataset is now available on 🤗 [HuggingFace](https://huggingface.co/HKUSTAudio). The full dataset will be released progressively.
 
+# ⚠️ Disclaimer 
+The Audio-FLAN dataset is released under the same license as the original datasets used in its creation. Please refer to the respective licenses of the original datasets for usage and redistribution terms. We do not claim ownership of the original data and encourage users to comply with the licensing terms of the source materials.
+
 <!-- ## Updates -->
-# Citation 
+# 📚 Citation 
 ```
 @article{xue2025audio,
   title={Audio-FLAN: A Preliminary Release},
