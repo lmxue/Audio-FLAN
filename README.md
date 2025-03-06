@@ -3,7 +3,7 @@
 
 ## 🔥 Audio-FLAN: A Preliminary Release
 <div>
-    <a href="https://huggingface.co/HKUSTAudio"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Huaging_Face-HKUST_Audio-yellow"></a>
+    <a href="https://huggingface.co/datasets/HKUSTAudio/Audio-FLAN-Dataset"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Huaging_Face-HKUST_Audio-yellow"></a>
     <a href="https://arxiv.org/pdf/2502.16584"><img src="https://img.shields.io/badge/arxiv-Audio_FLAN-green">
 </a>
 </div>
