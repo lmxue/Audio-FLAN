@@ -1,0 +1,17 @@
+
+## Create Virtual Environment and Install Dependencies
+    - conda activate evalenv
+    - run.sh
+
+## Evaluate Results
+    - example1: 
+        python calc_metrics.py \
+        --metrics fad \
+        --ref_dir /path/to/reference/audio/folder \
+        --deg_dir /path/to/generated/audio/folder \
+        --output_file fad_results.txt
+    - example2:
+        python calc_metrics.py \
+        --metrics choice_acc \
+        --input_file /path/to/predictions_and_groundtruth.jsonl \
+        --output_file acc_results.txt
