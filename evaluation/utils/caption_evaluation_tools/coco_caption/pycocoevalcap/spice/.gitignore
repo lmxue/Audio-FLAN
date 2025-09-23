@@ -1,0 +1,7 @@
+/bin/
+lib/stanford-corenlp-full-2015-12-09/
+lib/stanford-corenlp*.jar
+lib/meteor-1.5/
+*.cache
+log4j/
+/target/
